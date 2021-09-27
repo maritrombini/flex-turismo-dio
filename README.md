@@ -1,2 +1,2 @@
-# projeto para estudo de flexbox DIO
+# Projeto para estudo de flexbox DIO
 
